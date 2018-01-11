@@ -1,0 +1,11 @@
+{
+    "service": {
+        "port": 20000
+    },
+    "external-service": {
+        "oauth": {
+            "host": "localhost",
+            "port": 20099
+        }
+    }
+}

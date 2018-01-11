@@ -27,6 +27,11 @@ app.post("/", (req, res) => {
     res.send(JSON.stringify(req.body));
 });
 
+app.get("/authorize", (req, res) => {
+    res.status(501);
+    res.send(JSON.stringify({message: "Not implemented"}));
+});
+
 app.listen(port, (e) => {
     console.log("Listening to " + port);
 });
