@@ -1,0 +1,4 @@
+llmas.code-workspace
+*/.vscode
+*/node_modules
+*/.jshintrc
