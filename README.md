@@ -1,3 +1,3 @@
-# llmas Learning Management System
+# llamas Learning Management System
 
 ## Just for fun
