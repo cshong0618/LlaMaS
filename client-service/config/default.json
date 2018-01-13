@@ -1,0 +1,6 @@
+{
+    "service": {
+        "version": "dev-0",
+        "port": 20050
+    }
+}

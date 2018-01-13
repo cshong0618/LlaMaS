@@ -33,5 +33,5 @@ app.get("/authorize", (req, res) => {
 });
 
 app.listen(port, (e) => {
-    console.log("Listening to " + port);
+    console.log("oauth-service on PORT " + port);
 });
